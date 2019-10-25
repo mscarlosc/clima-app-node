@@ -1,0 +1,12 @@
+---- Registrarse en esta Web
+  Localiza latitud y longitud de una ciudad
+    https://rapidapi.com/dev132/api/city-geo-location-lookup
+  
+  Entrega clima en base a latitud y longitud de una ciudad
+    https://openweathermap.org/
+
+Dependencias (npm)
+  - Axios ó   Trabaja con peticiones hacia servicios Rest. Trabaja en base a promesas
+  - Request    "                                         . Trabaja en base a Call backs
+
+
